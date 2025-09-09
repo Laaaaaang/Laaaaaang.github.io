@@ -87,7 +87,7 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-Relationship:
+friends:
   [
     { title: "My Bachelor tutor: Zhong Guan", href: "https://mst.sysu.edu.cn/teacher/guanzong" },
     # {title: ""}
